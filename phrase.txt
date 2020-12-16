@@ -1,0 +1,1 @@
+{Good morning|Hello|Hi}. {How are you?. ||}{My name is|I am} {John|Tom|Richard}. I am {{8 years old| a kid}|{18 years old|a teenager}|{65 years old|a senior}}.
